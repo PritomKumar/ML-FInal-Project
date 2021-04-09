@@ -47,7 +47,7 @@ def imageResize(path):
         os.remove(path)
 
 # path = "F:\\IIT 8th Semester\\Machine Learning\\DataS\\Bnagla Handwritten Letter\\Bangla handwritten Letter\\BasicFinalDatabase100\\Train"
-path = "F:\\IIT 8th Semester\\Machine Learning\\DataS\\Bnagla Handwritten Letter\\Bangla handwritten Letter\\BasicFinalDatabase32"
+path = "F:\\IIT 8th Semester\\Machine Learning\\DataS\\Bnagla Handwritten Letter\\Bangla handwritten Letter\\BasicFinalDatabase100Basic"
 
 for root, dirs, files in os.walk(path):
     for f in files:
