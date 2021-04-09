@@ -35,7 +35,7 @@ def imageChangeFuction(path):
 
 def imageResize(path):
     try: 
-        base = 100
+        base = 32
         img = Image.open(path)
         # wpercent = (basewidth/float(img.size[0]))
         # hsize = int((float(img.size[1])*float(wpercent)))
@@ -54,5 +54,5 @@ for root, dirs, files in os.walk(path):
         filePath = os.path.join(root, f)
         # print(filePath)
         imageResize(filePath)
-        imageChangeFuction(filePath)
+        # imageChangeFuction(filePath)
 
