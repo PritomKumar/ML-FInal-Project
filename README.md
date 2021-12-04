@@ -11,8 +11,8 @@
 
 ### Table of Contents
 
-- [About The Project](#about-the-project)
-- [Features and Architecture](#Features-and-Architecture)
+- [About The Research](#about-the-Research)
+- [Methodology](#Methodology)
 - [Project Demo](#project-demo)
 - [Main Project Files](#main-project-files)
 - [License](#license)
@@ -20,37 +20,37 @@
 
 ---
 
-## About The Project
+## About The Research
 
-
-This program is used to steal data from open HTTP connection in any network. We just need to be present in the network to steal it!
-Working procedures:
-1. First the pcapCapture.cpp is called to capture the data in an open HTTP connection. It captures all the packets sending and receving in the connection. Then it writes all the packets in a user-specified file.
-2. After caputuring the files the pcapAnalyze.cpp is called. It analyzes the packets gathers all the packets from the same connection in order. Then we can save the result in a user-specfied file and see the results. Thus the steal is complete!
-3. After that the data packets are sorted according to their source IP adress, destination IP adress, source port number, destination port number. Then the packets are placed according to the sequence number.
+Handwritten letter recognition in any language is always a problematic and time-consuming
+task. Depending on the number of letters we may have more than one thousand classes.
+For the Bengali language, it is even more difficult because it is highly stylized, morphologically complex, and comprises potentially juxtapositional letters. Even though it has more
+than 230 million users worldwide and is the fifth most spoken language in the world, the
+improvements over the years in Bengali letter recognition are significantly less as compared
+to the other languages. In this paper, we investigate the performance of recognization of
+Bengali handwritten letters using some deep convolutional neural network (DCNN) models.
+We use the state-of-the-art pre-trained neural network models to learn about some special
+characteristics of the letters and use densely connected layers for the discrimination task.
+We trained our system on the CMATERdb dataset and test on the Ekush dataset. By
+using two different datasets for the training and testing purpose we can be more confident
+that our network is more robust and handles more variation. It achieves 97.74% accuracy
+on the validation dataset and 87.85% accuracy on the test dataset
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
 
 ---
 
-## Features and Architecture
+## Methodology
 
-### Features
+There are four steps to our work.
 
-- Terminal Program
-- Capture data packets
-- Store data packets
-- Analyze the packets
-- Check if there are any open HTTP connection in the network.
+1. Collect the dataset for training and testing.
+2. Preprocess the dataset and perform data augmentation.
+3. Train the dataset on the D-CNN models and their variants.
+4. Test the models on a completely different dataset. and analyze the results
 ---
 
-### Application Architecture
-
-- OS: Linux
-- Language: C, C++
-- IDE: Visual Studio Code
-- Libraries: sys/socket.h
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
 
