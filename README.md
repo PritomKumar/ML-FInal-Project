@@ -31,7 +31,7 @@ Working procedures:
 3. After that the data packets are sorted according to their source IP adress, destination IP adress, source port number, destination port number. Then the packets are placed according to the sequence number.
 
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Text-Bandit)
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
 
 ---
 
@@ -53,7 +53,7 @@ Working procedures:
 - IDE: Visual Studio Code
 - Libraries: sys/socket.h
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Text-Bandit)
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
 
 ---
 
@@ -91,7 +91,7 @@ Working procedures:
   
 </table>
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Text-Bandit)
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
 
 ---
 
@@ -99,7 +99,7 @@ Working procedures:
 *For detailed project code overview go inside the "Code" folder or click [here](https://github.com/PritomKumar/SPLproject-1/tree/master/Code).*
 
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Text-Bandit)
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
 
 ---
 
@@ -130,7 +130,7 @@ SOFTWARE.
 
 ```
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Text-Bandit)
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
 
 ---
 
@@ -139,4 +139,4 @@ SOFTWARE.
 - Linkedin - [Linked In](https://www.linkedin.com/in/pritomkumar/fr)
 - Website - [Pritom Kumar Das](https://sites.google.com/view/pritom-kumar-das/)
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Text-Bandit)
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
