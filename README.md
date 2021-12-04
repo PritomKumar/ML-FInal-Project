@@ -22,19 +22,9 @@
 
 ## About The Research
 
-Handwritten letter recognition in any language is always a problematic and time-consuming
-task. Depending on the number of letters we may have more than one thousand classes.
-For the Bengali language, it is even more difficult because it is highly stylized, morphologically complex, and comprises potentially juxtapositional letters. Even though it has more
-than 230 million users worldwide and is the fifth most spoken language in the world, the
-improvements over the years in Bengali letter recognition are significantly less as compared
-to the other languages. In this paper, we investigate the performance of recognization of
-Bengali handwritten letters using some deep convolutional neural network (DCNN) models.
-We use the state-of-the-art pre-trained neural network models to learn about some special
-characteristics of the letters and use densely connected layers for the discrimination task.
-We trained our system on the CMATERdb dataset and test on the Ekush dataset. By
-using two different datasets for the training and testing purpose we can be more confident
-that our network is more robust and handles more variation. It achieves 97.74% accuracy
-on the validation dataset and 87.85% accuracy on the test dataset
+Handwritten letter recognition in any language is always a problematic and time-consuming task. Depending on the number of letters we may have more than one thousand classes. For the Bengali language, it is even more difficult because it is highly stylized, morphologically complex, and comprises potentially juxtapositional letters. Even though it has more than 230 million users worldwide and is the fifth most spoken language in the world, the
+improvements over the years in Bengali letter recognition are significantly less as compared to the other languages. In this paper, we investigate the performance of recognization of Bengali handwritten letters using some deep convolutional neural network (DCNN) models. We use the state-of-the-art pre-trained neural network models to learn about some special characteristics of the letters and use densely connected layers for the discrimination task. We trained our system on the CMATERdb dataset and test on the Ekush dataset. By using two different datasets for the training and testing purpose we can be more confident that our network is more robust and handles more variation. It achieves 97.74% accuracy
+on the validation dataset and 87.85% accuracy on the test dataset. 
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
