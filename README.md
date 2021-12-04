@@ -68,7 +68,7 @@ There are four steps to our work.
 ---
 
 ## Research Paper
-*To see the full research paer go inside the "Research Paper" folder or click [here](https://github.com/PritomKumar/SPLproject-1/tree/master/Code).*
+*To see the full research paer go inside the "Research Paper" folder or click [here](https://github.com/PritomKumar/ML-FInal-Project/blob/master/Research%20Paper/Handwritten_Bangla_Letter_Recognition_Using_DeepConvolutional_Neural_Network.pdf).*
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
