@@ -46,9 +46,9 @@ There are four steps to our work.
 
 ---
 
-## Project Demo
+## Research Output
 
-### Member Application Screenshots
+### Output of Densenet169 model
 
 ---
 
@@ -57,6 +57,7 @@ There are four steps to our work.
     <th>Output Page 1</th>
   </tr>
   <tr>
+    <td><img src="Demo/1.png"/></td>
     <td><img src="Demo/1.png"/></td>
   </tr>
   <tr>
