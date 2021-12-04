@@ -13,8 +13,8 @@
 
 - [About The Research](#about-the-Research)
 - [Methodology](#Methodology)
-- [Project Demo](#project-demo)
-- [Main Project Files](#main-project-files)
+- [Research Output](#Research-Output)
+- [Research Paper](#Research-Paper)
 - [License](#license)
 - [Author Info](#author-info)
 
