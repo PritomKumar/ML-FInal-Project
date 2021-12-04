@@ -1,5 +1,4 @@
 # Bangla Handwritten Letter Recognition and Analysis
-# Text Bandit
 
 [![Platform](https://img.shields.io/badge/platform-Linux-yellow.svg)](https://www.linux.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
