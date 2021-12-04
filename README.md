@@ -54,30 +54,14 @@ There are four steps to our work.
 
 <table style="width:100%">
   <tr>
-    <th>Output Page 1</th>
+    <th>Accuracy</th>
+    <th>Loss</th>
   </tr>
   <tr>
-    <td><img src="Demo/1.png"/></td>
-    <td><img src="Demo/1.png"/></td>
+    <td><img src="Demo/acc.png"/></td>
+    <td><img src="Demo/loss.png"/></td>
   </tr>
-  <tr>
-    <th>Output Page 2</th>
-  </tr>
-  <tr>
-    <td><img src="Demo/2.png"/></td>
-  </tr>
-  <tr>
-    <th>Output Page 3</th>
-  </tr>
-  <tr>
-    <td><img src="Demo/3.png"/></td>
-  </tr>
-  <tr>
-    <th>Output Page 4</th>
-  </tr>
-  <tr>
-    <td><img src="Demo/4.png"/></td>
-  </tr>
+  
   
 </table>
 
@@ -85,8 +69,8 @@ There are four steps to our work.
 
 ---
 
-## Main Project Files
-*For detailed project code overview go inside the "Code" folder or click [here](https://github.com/PritomKumar/SPLproject-1/tree/master/Code).*
+## Research Paper
+*To see the full research paer go inside the "Research Paper" folder or click [here](https://github.com/PritomKumar/SPLproject-1/tree/master/Code).*
 
 
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Bangla-Handwritten-Letter-Recognition-and-Analysis)
