@@ -1,10 +1,10 @@
 # Bangla Handwritten Letter Recognition and Analysis
 
-[![Platform](https://img.shields.io/badge/platform-Linux-yellow.svg)](https://www.linux.com)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Socket](https://img.shields.io/badge/Socket-black?style=flat-square&logo=socket.io&badgeColor=010101)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 [![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://java-lang.github.io/awesome-java)
 
 ---
@@ -49,8 +49,6 @@ There are four steps to our work.
 ## Research Output
 
 ### Output of Densenet169 model
-
----
 
 <table style="width:100%">
   <tr>
